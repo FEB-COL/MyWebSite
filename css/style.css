@@ -25,7 +25,7 @@ body {
 .avatar {
   width: 200px;
   height: 200px;
-  margin-top: 100px;
+  margin-top: 50px;
   cursor: pointer;
   border-radius: 50%;
   animation: pulse 1s infinite;
