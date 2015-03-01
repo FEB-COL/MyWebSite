@@ -540,8 +540,8 @@ button:hover i {
 
 .social-icons {
 margin: 5rem auto 0 auto;
-padding-top: 1rem;
-padding-top: 16px;
+padding-top: 0.25rem;
+padding-top: 4px;
 }
 .blog-description {
 margin: 0;
