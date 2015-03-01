@@ -26,7 +26,7 @@
 .st-container > a {
 	z-index: 10;
 	font-weight: 700;
-	background: #000000;
+	background: #FFFFFF;
 	color: #fff;
 	text-align: center;
 	text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
@@ -101,7 +101,7 @@
 }
 
 .st-panel{
-	background: #fff;
+	background: #FFFFFF;
 } 
 
 #st-control-1:checked ~ .st-scroll {
@@ -405,7 +405,7 @@ visibility: hidden;
 
 .st-color,
 .st-deco{
-	background: #000000;
+	background: #FFFFFF;
 }
 .st-color :after {
 	color: #fa96b5;
