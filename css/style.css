@@ -638,43 +638,13 @@ letter-spacing: 0;
 /*codigo de imganes ojo*/
 /*codigo de imganes ojo*/
 /*codigo de imganes ojo*/
-
-.pic{
-    max-width: 300px;
-    max-height: 200px;
-    position: relative;
-    overflow: hidden;
-    margin: 10px;   
-    float: left;
-    display: inline-block;
-	font-size: cover;
-    animation: anima 2s;
-    -webkit-animation: anima 2s;
-
-   backface-visibility:hidden;
-    -webkit-backface-visibility:hidden;
-}
-
-.pic-caption{
-    cursor: crosshair;
-    position: absolute;
-    width: 95%;
-    height: 95%;
-    background: rgba(130,163,212, 0.92);
-    opacity:0;
-    padding: 10px;
-    text-align:center;
-}
-
-.pic-image{
-     -webkit-transform: scale(1.1);
-             transform: scale(1.1);
-}
-.pic:hover .pic-image{
-    -webkit-transform: scale(1);
-            transform: scale(1);
-}
 /*All classes with same attribute*/
+.ImgCentral{
+	position: absolute;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 a ,a:hover,
 .pic .pic-image,
 .pic-caption,
@@ -691,44 +661,13 @@ a ,a:hover,
 .pic:hover .right-to-left{
     opacity: 1;
 }
-/*Bottom to Top*/
-.bottom-to-top{
-    top:50%;    
-    left:2.5%;
-}
-.pic:hover .bottom-to-top{
-    top:2.5%
-}
-/*Top to Bottom*/
-.top-to-bottom{
-    bottom:50%;    
-    left:2.5%;
-}
-.pic:hover .top-to-bottom{
-    bottom: 2.5%;
-}
-/*Left to Right*/
-.left-to-right{
-    top:2.5%;
-    right:50%;
-}
-.pic:hover .left-to-right{
-    right: 2.5%;
-}
-/*Right to Left*/
-.right-to-left{
-    top:2.5%;
-    left:50%;
-}
-.pic:hover .right-to-left{
-    left: 2.5%;
-}
+
 .pic{
     max-width: 300px;
     max-height: 200px;
     position: relative;
     overflow: hidden;
-    margin: 10px;   
+    margin: 1px;   
     float: left;
     display: inline-block;
     
