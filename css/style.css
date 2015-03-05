@@ -647,7 +647,7 @@ letter-spacing: 0;
     margin: 10px;   
     float: left;
     display: inline-block;
-
+	font-size: cover;
     animation: anima 2s;
     -webkit-animation: anima 2s;
 
