@@ -772,3 +772,62 @@ a ,a:hover,
         -webkit-opacity: 1;
     }
 }
+
+
+/*Menu superio ojo*/
+/*Menu superio ojo*/
+/*Menu superio ojo*/
+/*Menu superio ojo*/
+/*Menu superio ojo*/
+#mainNav {
+  background-color:#2ECC71;
+  font-size:0;
+  text-align:center;
+  width:100%;
+}
+
+#mainNav ul {font-size:12px; }
+#mainNav i {font-size:3em;}
+#mainNav li {display:inline-block; height:inherit;}
+
+#mainNav a {
+  color:#fff;
+  font-family: Century Gothic;
+  font-size: 1.5em;
+  display:block;
+  height:inherit;
+  margin:0;
+  padding:1.75em 1em;
+  text-decoration:none;
+}
+
+#mainNav a:hover {
+  background-color:#34495E; transition: background .25s ease;
+ 
+}
+
+#mainNav li .sub-menu {
+  background-color:#7F8C8D;
+  position:absolute;
+  left:-9999px;
+  opacity:0;
+  transition: opacity .75s;
+  width:100%;
+  z-index:10;
+}
+
+#mainNav li:hover .sub-menu {
+  left:0px;
+  opacity:1;
+}
+
+#mainNav .sub-menu i {font-size:1em;}
+
+#mainNav .sub-menu a {
+  height:3em; line-height:3em;
+  padding:0 2em;
+  height:inherit;
+  width:100%;
+}
+
+#mainNav .sub-menu a:hover {background-color:#f60;}
