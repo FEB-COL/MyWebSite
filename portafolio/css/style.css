@@ -12,7 +12,7 @@ body {
   position: fixed;
   z-index: 2000;
   background: url("http://themes.mediacreed.com/html/synergy/assets/patterns/menu/menu_pattern_1.png");
-  border-right: 10px solid #d00355;
+  border-right: 10px solid #35CF76;
 }
 .sidebar ul {
   margin-top: 30px;
@@ -37,7 +37,7 @@ body {
   height: 40px;
   top: 0px;
   left: 0px;
-  background: #d00355;
+  background: #35CF76;
   z-index: 0;
   opacity: 0;
 }
@@ -81,7 +81,7 @@ h1 {
 }
 
 .color {
-  color: #d00355;
+  color: #35CF76;
 }
 
 .portfolio {
@@ -124,7 +124,7 @@ h1 {
   padding-bottom: 10px;
 }
 .caption h1 {
-  color: #d00355;
+  color: #35CF76;
   text-align: center;
   margin: 0px;
   padding: 0px;
@@ -140,7 +140,7 @@ h1 {
 .caption i {
   margin-left: 110px;
   margin-top: 15px;
-  color: #d00355;
+  color: #35CF76;
 }
 
 .active-drag {
