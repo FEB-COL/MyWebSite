@@ -473,7 +473,6 @@ body {
   right: 0;
   bottom: 0;
   overflow: hidden;
-  background: linear-gradient(to bottom, #1ad6fd, #1d62fc);
   font-size: 100;
   color: #fff;
 }
@@ -690,7 +689,7 @@ Main components
 #cd-intro {
   position: relative;
   height: 100%;
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/148866/bg-img.jpg") no-repeat center center;
+  background: url("http://fabianbohorquez.com/img/wallpaper/new-york.jpg") no-repeat center center;
   background-size: cover;
 }
 #cd-intro h1 {
