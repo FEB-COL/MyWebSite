@@ -462,7 +462,7 @@ Main components
   bottom: 0;
   overflow: hidden;
   font-size: 100;
-  color: #2A211E;
+  color: #E4D9D7;
 }
 .avatar {
   width: 200px;
@@ -517,6 +517,6 @@ Main components
 /*=============Button feb==============*/
 .buttonfeb{
   margin: 0 auto; /* Centro el contenedor */
-  padding-top: 3rem;
-  padding-top: 48px;
+  padding-top: 6rem;
+  padding-top: 96px;
 }
