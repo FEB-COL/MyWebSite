@@ -640,10 +640,7 @@ letter-spacing: 0;
 /*codigo de imganes ojo*/
 /*All classes with same attribute*/
 .ImgCentral{
-	position: absolute;
-  top: 50%; 
-  left: 50%;
-  transform: translate(-50%, -50%);
+	padding-top: 96px;
 }
 a ,a:hover,
 .pic .pic-image,
@@ -780,7 +777,7 @@ a ,a:hover,
 /*Menu superio ojo*/
 /*Menu superio ojo*/
 #mainNav {
-  background-color:#2ECC71;
+  background-color:#E74C3C;
   font-size:0;
   text-align:center;
   width:100%;
@@ -802,12 +799,12 @@ a ,a:hover,
 }
 
 #mainNav a:hover {
-  background-color:#34495E; transition: background .25s ease;
+  background-color:#1F518B; transition: background .25s ease;
  
 }
 
 #mainNav li .sub-menu {
-  background-color:#7F8C8D;
+  background-color:#7CBF42;
   position:absolute;
   left:-9999px;
   opacity:0;
