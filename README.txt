@@ -1,3 +1,0 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Joshuasm32/pen/ILJHp.
-
- Best viewed in full screen.  This design would work very nicely for a social profile page or your portfolio home page.  There are lots of interesting hover effects!  Special thanks to [@mnafricano](http://codepen.io/mnafricano) for designing the [pulsing border effect](http://codepen.io/mnafricano/details/EAIyb/).  Made with love and pure CSS!
