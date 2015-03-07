@@ -11,7 +11,7 @@ body {
   height: 100%;
   position: fixed;
   z-index: 2000;
-  background: url("http://themes.mediacreed.com/html/synergy/assets/patterns/menu/menu_pattern_1.png");
+  background: url("http://fabianbohorquez.com/img/Portafolio/menu_pattern_1.png");
   border-right: 10px solid #35CF76;
 }
 .sidebar ul {
@@ -57,7 +57,7 @@ body {
   padding: 0px;
   width: 220px;
   display: none;
-  background: url("http://themes.mediacreed.com/html/synergy/assets/patterns/menu/menu_pattern_1.png");
+  background: url("http://fabianbohorquez.com/img/Portafolio/menu_pattern_1.png");
 }
 .sidebar .sub-menu li a {
   padding-left: 20px;
