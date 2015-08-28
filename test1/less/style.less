@@ -1,0 +1,38 @@
+* { box-sizing: border-box }
+
+body {
+ font-family: 'Raleway', sans-serif;
+  background: #2c3e50;
+  font-size: 15px;
+}
+
+
+/* main content wrappers */
+main {
+  height: 1500px;
+}
+
+/* Site header */
+.site-header {
+  padding: 0 20px;
+  background: #ecf0f1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;  
+}
+
+.logo {
+  
+  img {
+    padding: 20px 0;
+    transition: all .4s ease;
+    
+    .full-header & { 
+      max-width: 200px;
+    }
+    .small-header & {
+      max-width: 100px;  
+    }
+  }
+}
