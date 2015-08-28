@@ -106,7 +106,7 @@ body {
   /* Fly out menus */
 }
 .drawer > li > a {
-  background: #7D294E;
+  background: #2C345B;
 }
 .drawer > li:hover {
   z-index: 100;
@@ -179,7 +179,7 @@ body {
 }
 .ild-ident svg .circle {
   transform: translate(7px, 7px);
-  fill: #7D294E;
+  fill: #2C345B;
 }
 .ild-ident svg.active .i {
   animation: initials .4s ease-in-out;
